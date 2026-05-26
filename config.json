@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereelete",
+        "uuid": 9410607,
+        "checksum": "ggrjnz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
